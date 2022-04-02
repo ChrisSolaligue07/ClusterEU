@@ -1,3 +1,3 @@
 # ClusterEU
-- Para poder generar los datos primero ejecutar el archivo: Clustering-EuDistance\Clustering-EuDistance.cpp (C++)
-- Para generar las graficas ejecutar el archivo VisualCluster\VisualCluster.py  (PY)
+- Para poder generar los datos, primero se debe ejecutar el siguiente archivo: Clustering-EuDistance\Clustering-EuDistance.cpp (C++)
+- Una vez procesado los datos, se debe crear las graficas, para ello se debe ejecutar el siguiente archivo: VisualCluster\VisualCluster.py  (PY)
