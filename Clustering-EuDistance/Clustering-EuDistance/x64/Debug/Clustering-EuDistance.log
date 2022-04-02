@@ -1,0 +1,4 @@
+﻿  Clustering-EuDistance.cpp
+D:\1. Universidad Catolica San Pablo\8.2022-1\Estructura de Datos Avanzados\Codigos\Clustering-EuDistance\Clustering-EuDistance\Func.h(11,12): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\1. Universidad Catolica San Pablo\8.2022-1\Estructura de Datos Avanzados\Codigos\Clustering-EuDistance\Clustering-EuDistance\Clustering-EuDistance.cpp(51,30): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Clustering-EuDistance.vcxproj -> D:\1. Universidad Catolica San Pablo\8.2022-1\Estructura de Datos Avanzados\Codigos\Clustering-EuDistance\x64\Debug\Clustering-EuDistance.exe
